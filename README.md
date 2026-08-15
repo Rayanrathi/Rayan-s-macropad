@@ -7,19 +7,19 @@ A custom 4-key macropad with a rotary encoder and OLED display, built as part of
 ## Renders & Screenshots
 
 ### PCB 3D Render
-![PCB 3D Render](images/pcb_3d.jpeg)
+![PCB 3D Render](images/pcb_3d.jpg)
 
 ### Schematic
-![Schematic](images/schematic.jpeg)
+![Schematic](images/schematic.jpg)
 
 ### PCB Layout
-![PCB Layout](images/pcb_layout.jpeg)
+![PCB Layout](images/pcb_layout.jpg)
 
 ### Case — Bottom
-![Case Bottom](images/case_bottom.jpeg)
+![Case Bottom](images/case_bottom.jpg)
 
 ### Case — Lid
-![Case Lid](images/case_lid.jpeg)
+![Case Lid](images/case_lid.jpg)
 
 ---
 
@@ -126,11 +126,11 @@ Double-tap RST on XIAO → open QMK Toolbox → load `.bin` → Flash.
 your-macropad/
 ├── README.md
 ├── images/
-│   ├── pcb_3d.jpeg
-│   ├── schematic.jpeg
-│   ├── pcb_layout.jpeg
-│   ├── case_bottom.jpeg
-│   └── case_lid.jpeg
+│   ├── pcb_3d.jpg
+│   ├── schematic.jpg
+│   ├── pcb_layout.jpg
+│   ├── case_bottom.jpg
+│   └── case_lid.jpg
 ├── CAD/
 │   └── assembled-model.STEP
 ├── PCB/
